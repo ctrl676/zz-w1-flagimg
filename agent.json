@@ -1,0 +1,11 @@
+{
+  "name": "W1R1053-KEEP",
+  "description": "W1R1053-DESC-KEEP",
+  "url": "http://ssrf.jd.local/c3f3f53c12674acdc9855f47b85299f0.html",
+  "version": "1.0.0",
+  "protocolVersion": "0.2.0",
+  "capabilities": {"streaming": true},
+  "defaultInputModes": ["text"],
+  "defaultOutputModes": ["text"],
+  "skills": []
+}
